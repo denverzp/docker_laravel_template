@@ -18,7 +18,8 @@
 
 ### PHP details
 Composer
-Custom php.ini file - in `./docker/php/` After change - rebuild image.
+
+Custom php.ini file - in `./docker/php/`. After change - rebuild image.
 
 #### PHP Modules
 - gd
